@@ -1,0 +1,11 @@
+.description p {
+    text-align: center;
+}
+
+span#fpt {
+    color: #f37328;
+}
+
+span#major {
+    color: #00fa9a;
+}
