@@ -13,7 +13,7 @@ function App() {
       <Name name="Huỳnh Ngọc Quang" />
       <Description />
       <ContactButton />
-      <ContactDetails fb_username="https://www.facebook.com/quangIT2k4" zalo_link="http://zaloapp.com/qr/p/1oszyqgqaj7a6" />
+      <ContactDetails facebook_link="https://www.facebook.com/quangIT2k4" zalo_link="http://zaloapp.com/qr/p/1oszyqgqaj7a6" />
     </div>
   );
 }
