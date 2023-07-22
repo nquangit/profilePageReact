@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="main">
       <FPTLogo />
-      <Name />
+      <Name name="Huỳnh Ngọc Quang" />
       <Description />
       <ContactButton />
-      <ContactDetails />
+      <ContactDetails fb_username="https://www.facebook.com/quangIT2k4" zalo_link="http://zaloapp.com/qr/p/1oszyqgqaj7a6" />
     </div>
   );
 }
